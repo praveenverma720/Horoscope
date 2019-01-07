@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="add_unit">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
